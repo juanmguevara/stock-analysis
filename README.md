@@ -8,4 +8,4 @@ After finishing creating our stock analysis tool, we have determined that the DQ
 
 <img src="https://pokjyg.ch.files.1drv.com/y4mS92yjkHU5J9Kfhy_o-yJVJyNVAW2-W3PWhWLNxZ2abAwBJeeszAo1gwN64xjHRTfIpkiQT8H5YeGRyPtioajNBtGDDKVkeneoFLoISmayUnQuKHyjo_cUMhMNgEh14xWZIvqd_CO1zfJkWQlchMOHQHPyXVupA4f2Nf7DGm0qrCtGbz9SvtlTfUNrv3799oWLBv2MGBkzZW_hXvvCCYieQ?width=313&height=331&cropmode=none" width="313" height="331" />
 
-We have modified the stock Analysis tool in order to provide Steve & his parents a broader analysis tool for them to use in their future investments. The modifications will let them analysis more than 12 stocks in a click of a button. This feature is still in progress, but having this tool become dynamic to their investment needs will help them make more smarter decisions.
+We have modified the stock Analysis tool in order to provide Steve & his parents a broader analysis tool for them to use in their future investments. The modifications will let them analysis more than 12 stocks in a click of a button. This feature is dynamic helping them analysis 5 stocks if they choose so or more. It will all be formated and analysed accordingly.
